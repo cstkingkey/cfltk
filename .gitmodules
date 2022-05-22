@@ -1,4 +1,4 @@
 [submodule "fltk"]
 	path = fltk
-	url = https://github.com/fltk/fltk
-	branch = master
+	url = https://github.com/cstkingkey/fltk.git
+	branch = hack
